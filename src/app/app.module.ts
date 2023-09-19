@@ -4,7 +4,6 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { StudentsComponent } from './students/students.component';
 import { NavbarComponent } from './navbar/navbar.component';
-import { FooterComponent } from './footer/footer.component';
 import { HeaderComponent } from './header/header.component';
 
 @NgModule({
@@ -13,7 +12,6 @@ import { HeaderComponent } from './header/header.component';
     AppComponent,
     StudentsComponent,
     NavbarComponent,
-    FooterComponent,
     HeaderComponent,
 ],
   imports: [
