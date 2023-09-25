@@ -1,0 +1,9 @@
+h1 {
+  background-color: lightskyblue;
+  font-size: 10px white;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  text-decoration: underline;
+  border: 1px black solid;
+}/*# sourceMappingURL=header.component.css.map */

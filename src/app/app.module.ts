@@ -5,6 +5,8 @@ import { AppComponent } from './app.component';
 import { StudentsComponent } from './students/students.component';
 import { NavbarComponent } from './navbar/navbar.component';
 import { HeaderComponent } from './header/header.component';
+import { RoundedBlockDirective } from './directives/rounded-block.directive';
+
 
 @NgModule({
 
@@ -13,6 +15,8 @@ import { HeaderComponent } from './header/header.component';
     StudentsComponent,
     NavbarComponent,
     HeaderComponent,
+    RoundedBlockDirective,
+
 ],
   imports: [
     BrowserModule,

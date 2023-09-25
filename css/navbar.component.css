@@ -1,4 +1,18 @@
-aside {
+ul {
   display: flex;
   flex-direction: column;
+  font-size: 20px;
+  text-shadow: 7px 7px 7px;
+  height: 100%;
+  width: 130px;
+  line-height: 80px;
+  background-color: lightcoral;
+  text-align: center;
+  position: fixed;
+  border: 2px black solid;
+}
+
+a {
+  color: black;
+  font-style: oblique;
 }/*# sourceMappingURL=navbar.component.css.map */
